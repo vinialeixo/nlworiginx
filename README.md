@@ -7,7 +7,8 @@ CSS
 JavaScript
 
 
-Bibliotecas
+
+Bibliotecas:
 
 Google Fonts
 
