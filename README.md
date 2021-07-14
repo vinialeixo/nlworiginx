@@ -7,4 +7,11 @@ CSS
 JavaScript
 
 
+Bibliotecas
+
+Google Fonts
+
+SwipeJS
+
+ScrollRevel
 
